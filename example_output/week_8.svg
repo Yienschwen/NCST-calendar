@@ -1,0 +1,115 @@
+<?xml version="1.0" standalone="no"?>
+
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" 
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+<svg width="2400" height="1300" version="1.1"
+xmlns="http://www.w3.org/2000/svg">
+
+<rect width="300" height="100" x="0" y="0" style="fill:rgb(255,255,255);stroke-width:1;stroke:rgb(0,0,0)"/>
+    
+
+    <rect width="300" height="100" x="0" y="100" style="fill:rgb(255,255,255);stroke-width:1;stroke:rgb(0,0,0)"/>
+    <text font-size="19" text-anchor="middle" x="150" y="135">I</text>
+    <text font-size="19" text-anchor="middle" x="150" y="165">0800-0850</text>
+
+    <rect width="300" height="100" x="0" y="200" style="fill:rgb(255,255,255);stroke-width:1;stroke:rgb(0,0,0)"/>
+    <text font-size="19" text-anchor="middle" x="150" y="235">II</text>
+    <text font-size="19" text-anchor="middle" x="150" y="265">0855-0945</text>
+
+
+    <rect width="300" height="100" x="0" y="300" style="fill:rgb(255,255,255);stroke-width:1;stroke:rgb(0,0,0)"/>
+    <text font-size="19" text-anchor="middle" x="150" y="335">III</text>
+    <text font-size="19" text-anchor="middle" x="150" y="365">1015-1105</text>
+    
+    <rect width="300" height="100" x="0" y="400" style="fill:rgb(255,255,255);stroke-width:1;stroke:rgb(0,0,0)"/>
+    <text font-size="19" text-anchor="middle" x="150" y="435">IV</text>
+    <text font-size="19" text-anchor="middle" x="150" y="465">1110-1200</text>
+
+    <rect width="300" height="100" x="0" y="500" style="fill:rgb(255,255,255);stroke-width:1;stroke:rgb(0,0,0)"/>
+    <text font-size="19" text-anchor="middle" x="150" y="535">V</text>
+    <text font-size="19" text-anchor="middle" x="150" y="565">1400-1450</text>
+
+    <rect width="300" height="100" x="0" y="600" style="fill:rgb(255,255,255);stroke-width:1;stroke:rgb(0,0,0)"/>
+    <text font-size="19" text-anchor="middle" x="150" y="635">VI</text>
+    <text font-size="19" text-anchor="middle" x="150" y="665">1455-1545</text>
+
+    <rect width="300" height="100" x="0" y="700" style="fill:rgb(255,255,255);stroke-width:1;stroke:rgb(0,0,0)"/>
+    <text font-size="19" text-anchor="middle" x="150" y="735">VII</text>
+    <text font-size="19" text-anchor="middle" x="150" y="765">1615-1705</text>
+
+    <rect width="300" height="100" x="0" y="800" style="fill:rgb(255,255,255);stroke-width:1;stroke:rgb(0,0,0)"/>
+    <text font-size="19" text-anchor="middle" x="150" y="835">VIII</text>
+    <text font-size="19" text-anchor="middle" x="150" y="865">1710-1800</text>
+
+    <rect width="300" height="100" x="0" y="900" style="fill:rgb(255,255,255);stroke-width:1;stroke:rgb(0,0,0)"/>
+    <text font-size="19" text-anchor="middle" x="150" y="935">IX</text>
+    <text font-size="19" text-anchor="middle" x="150" y="965">1900-1950</text>
+
+    <rect width="300" height="100" x="0" y="1000" style="fill:rgb(255,255,255);stroke-width:1;stroke:rgb(0,0,0)"/>
+    <text font-size="19" text-anchor="middle" x="150" y="1035">X</text>
+    <text font-size="19" text-anchor="middle" x="150" y="1065">1955-2045</text>
+    
+    <rect width="300" height="100" x="0" y="1100" style="fill:rgb(255,255,255);stroke-width:1;stroke:rgb(0,0,0)"/>
+    <text font-size="19" text-anchor="middle" x="150" y="1135">XI</text>
+    <text font-size="19" text-anchor="middle" x="150" y="1165">2050-2140</text>
+
+    <rect width="300" height="100" x="0" y="1200" style="fill:rgb(255,255,255);stroke-width:1;stroke:rgb(0,0,0)"/>
+    <text font-size="19" text-anchor="middle" x="150" y="1235">XII</text>
+    <text font-size="19" text-anchor="middle" x="150" y="1265">2145-2235</text>
+
+    <!--division line of each hour-->
+    <g fill="none" stroke="grey" stroke-width="1.5" stroke-dasharray="15,5">
+        <path d="M300 200 H 2400" />
+        <path d="M300 300 H 2400" />
+        <path d="M300 400 H 2400" />
+        <path d="M300 600 H 2400" />
+        <path d="M300 700 H 2400" />
+        <path d="M300 800 H 2400" />
+        <path d="M300 1000 H 2400" />
+        <path d="M300 1100 H 2400" />
+        <path d="M300 1200 H 2400" />
+        <path d="M300 1300 H 2400" />
+    </g>
+    
+    
+
+    <g fill="none" stroke="grey" stroke-width="1" >
+        <path d="M600 100 v 1200" />
+        <path d="M900 100 v 1200" />
+        <path d="M1200 100 v 1200" />
+        <path d="M1500 100 v 1200" />
+        <path d="M1800 100 v 1200" />
+        <path d="M2100 100 v 1200" />
+        <path d="M2400 100 v 1200" />
+    </g>
+
+    <rect width="300" height="100" x="300" y="0" style="fill:rgb(255,255,255);stroke-width:1;stroke:rgb(0,0,0)"/>
+    <rect width="300" height="100" x="600" y="0" style="fill:rgb(255,255,255);stroke-width:1;stroke:rgb(0,0,0)"/>
+    <rect width="300" height="100" x="900" y="0" style="fill:rgb(255,255,255);stroke-width:1;stroke:rgb(0,0,0)"/>
+    <rect width="300" height="100" x="1200" y="0" style="fill:rgb(255,255,255);stroke-width:1;stroke:rgb(0,0,0)"/>
+    <rect width="300" height="100" x="1500" y="0" style="fill:rgb(255,255,255);stroke-width:1;stroke:rgb(0,0,0)"/>
+    <rect width="300" height="100" x="1800" y="0" style="fill:rgb(255,255,255);stroke-width:1;stroke:rgb(0,0,0)"/>
+    <rect width="300" height="100" x="2100" y="0" style="fill:rgb(255,255,255);stroke-width:1;stroke:rgb(0,0,0)"/>
+    <text font-size="22" text-anchor="middle" x="450" y="45">星期一</text>
+    <text font-size="22" text-anchor="middle" x="750" y="45">星期二</text>
+    <text font-size="22" text-anchor="middle" x="1050" y="45">星期三</text>
+    <text font-size="22" text-anchor="middle" x="1350" y="45">星期四</text>
+    <text font-size="22" text-anchor="middle" x="1650" y="45">星期五</text>
+    <text font-size="22" text-anchor="middle" x="1950" y="45">星期六</text>
+    <text font-size="22" text-anchor="middle" x="2250" y="45">星期日</text>
+    
+    <text font-size="45" text-anchor="middle" x="150" y="65">第 8 周</text><text font-size="18" text-anchor="middle" x="450" y="75">10/31</text><rect width="300" height="200" x="300" y="100" style="fill:rgb(255,255,255);stroke-width:2;stroke:rgb(0,0,0)"/><text style="font-weight:bold;" font-size="27" text-anchor="middle" x="450" y="185">药理学A</text><text font-size="18" text-anchor="middle" x="450" y="225">建设路校区-东二教学楼-二阶梯</text><rect width="300" height="200" x="300" y="300" style="fill:rgb(255,255,255);stroke-width:2;stroke:rgb(0,0,0)"/><text style="font-weight:bold;" font-size="27" text-anchor="middle" x="450" y="385">体检诊断学A</text><text font-size="18" text-anchor="middle" x="450" y="425">建设路校区-东二教学楼-一阶梯</text><text font-size="18" text-anchor="middle" x="750" y="75">11/1</text><rect width="300" height="400" x="600" y="500" style="fill:rgb(255,255,255);stroke-width:2;stroke:rgb(0,0,0)"/><text style="font-weight:bold;" font-size="27" text-anchor="middle" x="750" y="685">病理解剖学实验A</text><text font-size="18" text-anchor="middle" x="750" y="725">建设路校区-东五教学楼-形态室1</text><rect width="300" height="200" x="600" y="900" style="fill:rgb(255,255,255);stroke-width:2;stroke:rgb(0,0,0)"/><text style="font-weight:bold;" font-size="27" text-anchor="middle" x="750" y="985">大学生职业生涯规划-3</text><text font-size="18" text-anchor="middle" x="750" y="1025">建设路校区-东六教学楼-十三阶梯</text><text font-size="18" text-anchor="middle" x="1050" y="75">11/2</text><rect width="300" height="200" x="900" y="300" style="fill:rgb(255,255,255);stroke-width:2;stroke:rgb(0,0,0)"/><text style="font-weight:bold;" font-size="27" text-anchor="middle" x="1050" y="385">药理学A</text><text font-size="18" text-anchor="middle" x="1050" y="425">建设路校区-科技楼-十六阶</text><rect width="300" height="200" x="900" y="900" style="fill:rgb(255,255,255);stroke-width:2;stroke:rgb(0,0,0)"/><text style="font-weight:bold;" font-size="27" text-anchor="middle" x="1050" y="985">专业外语1</text><text font-size="18" text-anchor="middle" x="1050" y="1025">建设路校区-东四教学楼-十阶</text><rect width="300" height="200" x="900" y="100" style="fill:rgb(255,255,255);stroke-width:2;stroke:rgb(0,0,0)"/><text style="font-weight:bold;" font-size="27" text-anchor="middle" x="1050" y="185">预防医学A</text><text font-size="18" text-anchor="middle" x="1050" y="225">建设路校区-科技楼-201室</text><text font-size="18" text-anchor="middle" x="1350" y="75">11/3</text><rect width="300" height="200" x="1200" y="900" style="fill:rgb(255,255,255);stroke-width:2;stroke:rgb(0,0,0)"/><text style="font-weight:bold;" font-size="27" text-anchor="middle" x="1350" y="985">病理解剖学A</text><text font-size="18" text-anchor="middle" x="1350" y="1025">建设路校区-科技楼-二十阶</text><rect width="300" height="400" x="1200" y="100" style="fill:rgb(255,255,255);stroke-width:2;stroke:rgb(0,0,0)"/><text style="font-weight:bold;" font-size="27" text-anchor="middle" x="1350" y="285">机能实验学A</text><text font-size="18" text-anchor="middle" x="1350" y="325">建设路校区-东二教学楼-机能实验室</text><rect width="300" height="200" x="1200" y="700" style="fill:rgb(255,255,255);stroke-width:2;stroke:rgb(0,0,0)"/><text style="font-weight:bold;" font-size="27" text-anchor="middle" x="1350" y="785">预防医学A</text><text font-size="18" text-anchor="middle" x="1350" y="825">建设路校区-科技楼-201室</text><text font-size="18" text-anchor="middle" x="1650" y="75">11/4</text><rect width="300" height="200" x="1500" y="100" style="fill:rgb(255,255,255);stroke-width:2;stroke:rgb(0,0,0)"/><text style="font-weight:bold;" font-size="27" text-anchor="middle" x="1650" y="185">药理学A</text><text font-size="18" text-anchor="middle" x="1650" y="225">建设路校区-东二教学楼-三阶梯</text><rect width="300" height="200" x="1500" y="300" style="fill:rgb(255,255,255);stroke-width:2;stroke:rgb(0,0,0)"/><text style="font-weight:bold;" font-size="27" text-anchor="middle" x="1650" y="385">体检诊断学A</text><text font-size="18" text-anchor="middle" x="1650" y="425">建设路校区-东二教学楼-一阶梯</text><rect width="300" height="200" x="1500" y="500" style="fill:rgb(255,255,255);stroke-width:2;stroke:rgb(0,0,0)"/><text style="font-weight:bold;" font-size="27" text-anchor="middle" x="1650" y="585">体检诊断学实验A</text><text font-size="18" text-anchor="middle" x="1650" y="625">建设路校区-西一教学楼-物诊室</text><rect width="300" height="200" x="1500" y="700" style="fill:rgb(255,255,255);stroke-width:2;stroke:rgb(0,0,0)"/><text style="font-weight:bold;" font-size="27" text-anchor="middle" x="1650" y="785">体检诊断学实验A</text><text font-size="18" text-anchor="middle" x="1650" y="825">建设路校区-西一教学楼-物诊室</text><rect width="300" height="200" x="1500" y="900" style="fill:rgb(255,255,255);stroke-width:2;stroke:rgb(0,0,0)"/><text style="font-weight:bold;" font-size="27" text-anchor="middle" x="1650" y="985">预防医学A</text><text font-size="18" text-anchor="middle" x="1650" y="1025">建设路校区-科技楼-201室</text><text font-size="18" text-anchor="middle" x="1950" y="75">11/5</text><rect width="300" height="200" x="1800" y="100" style="fill:rgb(255,255,255);stroke-width:2;stroke:rgb(0,0,0)"/><text style="font-weight:bold;" font-size="27" text-anchor="middle" x="1950" y="185">病理解剖学A</text><text font-size="18" text-anchor="middle" x="1950" y="225">建设路校区-科技楼-十七阶</text><rect width="300" height="200" x="1800" y="300" style="fill:rgb(255,255,255);stroke-width:2;stroke:rgb(0,0,0)"/><text style="font-weight:bold;" font-size="27" text-anchor="middle" x="1950" y="385">病理解剖学A</text><text font-size="18" text-anchor="middle" x="1950" y="425">建设路校区-科技楼-十七阶</text><text font-size="18" text-anchor="middle" x="2250" y="75">11/6</text>
+
+    <!--division line of morning, afternoon, and night-->
+    <g fill="none" stroke="black" stroke-width="4">
+        <!--noon-->
+        <path d="M0 500 H 2400" />
+        <!--evening-->
+        <path d="M0 900 H 2400" />
+        
+    </g>
+    <path stroke="black" fill="none" stroke-width="4" d="M 0 0 H 2400 V 1300 H 0 V 0" />
+    <path stroke="black" fill="none" stroke-width="4" d="M 0 100 H 2400" />
+    <path stroke="black" fill="none" stroke-width="4" d="M 300 0 V 1300" />
+</svg>
