@@ -16,6 +16,6 @@
 * `python3`
 * (Optional, needed by `svg2pdf.sh`) `rsvg-convert`
 
-## Lisence
+## License
 
 GPLv2
